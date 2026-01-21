@@ -16,7 +16,7 @@ metadata:
   name: webserver
   description: A webserver component for serving web applications
   annotations:
-    backstage.io/techdocs-ref: dir:./docs/webserver
+    backstage.io/techdocs-ref: dir:./webserver
   dependsOn:
     - component:default/rhdhdemo
 spec:
